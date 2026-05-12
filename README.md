@@ -1,2 +1,0 @@
-# Yang-mills
-Framework 
